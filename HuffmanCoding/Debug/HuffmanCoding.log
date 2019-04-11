@@ -1,0 +1,28 @@
+﻿  HuffmanCoding.cpp
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.h(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.h(26): warning C4018: '<': signed/unsigned mismatch
+  Huffman.cpp
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.h(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.h(26): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(9): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(25): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(22): warning C4101: 'hf': unreferenced local variable
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(50): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(55): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(63): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(73): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(134): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(135): warning C4101: 'hf': unreferenced local variable
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(159): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(188): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(200): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(222): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(211): warning C4101: 'hf': unreferenced local variable
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(246): warning C4101: 'hf': unreferenced local variable
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(333): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(341): warning C4101: 'hf': unreferenced local variable
+x:\studia\z16-17\si\siec_neuronow\huffmancoding\huffmancoding\huffman.cpp(369): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  Generating Code...
+  HuffmanCoding.vcxproj -> X:\Studia\Z16-17\SI\siec_neuronow\HuffmanCoding\Debug\HuffmanCoding.exe
